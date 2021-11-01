@@ -1,0 +1,16 @@
+{
+    "influxdb": {
+        "url": "",
+        "token": "",
+        "org": "",
+        "bucket": "",
+        "precision": "s",
+        "default_tags": { }
+    },
+    "repos": [
+        {
+            "name": "",
+            "includeSum": true
+        }
+    ]
+}

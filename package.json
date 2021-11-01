@@ -1,0 +1,17 @@
+{
+  "name": "github-releases-to-influxdb",
+  "version": "1.0.0",
+  "description": "Track the download count of your GitHub releases with InfluxDB",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Himbeer",
+  "license": "MIT",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.20.0",
+    "node-fetch": "^3.0.0"
+  }
+}
