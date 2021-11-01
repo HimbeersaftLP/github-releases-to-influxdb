@@ -4,7 +4,6 @@
         "token": "",
         "org": "",
         "bucket": "",
-        "precision": "s",
         "default_tags": { }
     },
     "repos": [
