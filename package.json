@@ -11,7 +11,7 @@
   "author": "Himbeer",
   "license": "MIT",
   "dependencies": {
-    "@influxdata/influxdb-client": "^1.20.0",
-    "node-fetch": "^3.1.1"
+    "@influxdata/influxdb-client": "^1.28.0",
+    "node-fetch": "^3.2.10"
   }
 }
